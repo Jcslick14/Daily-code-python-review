@@ -1,0 +1,7 @@
+#1/7 Daily Code: Python Review #2 Jeremy
+for i in range(2, 90, 10): #starts at 2, ends at 80, counts by 10
+    print(i, end = " ")
+    
+for i in range(100, 9, 5): #starts at 100, down to 10v, counts by 5
+    print(i, end = " ")
+ 
