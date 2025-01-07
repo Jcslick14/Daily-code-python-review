@@ -1,0 +1,10 @@
+#1/7 Daily Code: Python Review #1 Jeremy
+score = int(input("Enter your socre: "))
+if score < 100:
+    print("Novice")
+elif score < 200:
+    print("Intermediate")
+elif score < 300:
+    print("Advance")
+else:
+    print("Expert")
